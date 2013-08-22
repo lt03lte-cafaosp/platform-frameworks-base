@@ -2909,4 +2909,8 @@
          is installed. -->
     <bool name="config_permissionReviewRequired">false</bool>
 
+    <!-- Hardware button brightness -->
+    <integer name="config_buttonBrightnessSettingDefault">255</integer>
+    <integer name="config_keyboardBrightnessSettingDefault">0</integer>
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 </resources>
